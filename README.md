@@ -4,7 +4,6 @@ This is a barebones implementation of Candy Machine V2 frontend, intended for us
 
 The app was built using Svelte + Vite and uses TailwindCSS for styles.
 
-## Featured website @ https://gmbeachclub.xyz
 
 Built and customized using this frontend.
 
